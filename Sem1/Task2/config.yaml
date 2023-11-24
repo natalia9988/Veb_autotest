@@ -1,0 +1,10 @@
+url_login: "https://test-stand.gb.ru/gateway/login"
+url_posts: "https://test-stand.gb.ru/api/posts"
+login: "alexgrach"
+password: "37fff30bdc"
+
+
+title: "Времена года"
+description: "Осень"
+content:  "Осенняя пора"
+find_description: "Осень"
